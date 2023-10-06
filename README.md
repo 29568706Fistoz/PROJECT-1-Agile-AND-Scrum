@@ -14,7 +14,7 @@ Welcome to the CMPG 323 task management repository. This repository is designed 
 
 This repository provides an overview of tasks and assignments for the CMPG 323 course. It includes details such as task titles, URLs, status, due dates, sprints, efforts, linked pull requests, milestones, labels, repositories, and linked assessments.
 
-## Task List
+## Task List 
 
 Below is a list of tasks along with their details:
 
