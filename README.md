@@ -49,7 +49,7 @@ Below is a list of tasks along with their details:
 ### Project 2
 
 - [Task Details](https://github.com/29568706Fistoz/CMPG-323_29568706/issues/19)
-- Status: Todo
+- Status: Done
 - Due Date: 31 August 2023
 - Milestone: Project 2 Submission
 - Labels: Project
