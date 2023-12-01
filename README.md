@@ -1,4 +1,3 @@
-# CMPG-323_29568706
 # CMPG 323 - Task Management
 
 Welcome to the CMPG 323 task management repository. This repository is designed to help you organize and track your tasks for the CMPG 323 course. Each task is related to various topics, projects, and assignments within the course.
